@@ -15,7 +15,7 @@ The most over-engineered, unnecessary, and borderline irritating website called 
   
 ### Project Description
 A very loud keyboard. The site that does less than nothing!Every time a user types any letter, the website immediately screams that letter out loud using Text-to-Speech in the most obnoxious voice possible.
-.Bonus annoying features:Add loud keyboard click sounds that stack with every press. No limit.Each letter typed explodes into sparkles and rotates 360° while yelling itself . The background flash random colors with every keypress.Prevent the user from deleting anything. Backspace just yells “NOPE!”Automatically switch voices mid-word. An unskippable intro that says: “Welcome to LettuceSpeak! Serves no real purpose, drain battery, and be mildly embarrassing in public places.
+.Bonus annoying features: Loud keyboard click sounds that stack with every press. No limit.Each letter typed explodes into sparkles and rotates 360° while yelling itself . The background flash random colors with every keypress.Prevent the user from deleting anything. Backspace just yells “NOPE!”Automatically switch voices mid-word. An unskippable intro that says: “Welcome to LettuceSpeak! Serves no real purpose, drain battery, and be mildly embarrassing in public places.
 
 ### The Problem (that doesn't exist)
 People are typing silently… comfortably… in peace. 🤢
