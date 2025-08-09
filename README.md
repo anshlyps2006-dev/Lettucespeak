@@ -1,30 +1,35 @@
-# LettuceSpeak Website
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/anshlyps2006-4320s-projects/v0-lettuce-speak-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/yv63QVMeWcd)
+#  🥬LettuceSpeak🥬 
 
-## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+The most over-engineered, unnecessary, and borderline irritating website called "LettuceSpeak" (yes, spelled like the vegetable) that does one thing:Every time a user types any letter, the website immediately screams that letter out loud using Text-to-Speech in the most obnoxious voice possible.
 
-## Deployment
+### Team Name: Team_Thenga🥥
 
-Your project is live at:
 
-**[https://vercel.com/anshlyps2006-4320s-projects/v0-lettuce-speak-website](https://vercel.com/anshlyps2006-4320s-projects/v0-lettuce-speak-website)**
+### Team Members
+- Member 1: Anshly P S - Sahrdaya College of Advanced Studies
+- Member 2: Elsa Prince - Sahrdaya College of Advanced Studies
+  
+### Project Description
+A very loud keyboard. The site that does less than nothing!Every time a user types any letter, the website immediately screams that letter out loud using Text-to-Speech in the most obnoxious voice possible.
+.Bonus annoying features:Add loud keyboard click sounds that stack with every press. No limit.Each letter typed explodes into sparkles and rotates 360° while yelling itself . The background flash random colors with every keypress.Prevent the user from deleting anything. Backspace just yells “NOPE!”Automatically switch voices mid-word. An unskippable intro that says: “Welcome to LettuceSpeak! Serves no real purpose, drain battery, and be mildly embarrassing in public places.
 
-## Build your app
+### The Problem (that doesn't exist)
+People are typing silently… comfortably… in peace. 🤢
 
-Continue building your app on:
 
-**[https://v0.dev/chat/projects/yv63QVMeWcd](https://v0.dev/chat/projects/yv63QVMeWcd)**
+### The Solution (that nobody asked for)
+We bring chaos to their fingertips:
+A loud, flashy, battery-draining, socially embarrassing typing experience for anyone who dares to use it.
 
-## How It Works
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
+
